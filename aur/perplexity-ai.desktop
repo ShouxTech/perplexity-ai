@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Perplexity AI
+Comment=Perplexity AI wrapper
+Exec=perplexity-ai
+Icon=perplexity-ai
+Terminal=false
+Type=Application
+StartupWMClass=perplexity-ai
+Categories=Utility;

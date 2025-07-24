@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec electron36 /usr/share/perplexity-ai "$@"

@@ -1,0 +1,19 @@
+pkgbase = perplexity-ai
+	pkgdesc = Perplexity AI wrapper
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/ShouxTech/perplexity-ai
+	arch = x86_64
+	license = MIT
+	makedepends = npm
+	depends = electron36
+	source = perplexity-ai-1.0.0.tar.gz::https://github.com/ShouxTech/perplexity-ai/archive/refs/tags/v1.0.0.tar.gz
+	source = perplexity-ai
+	source = icon.png
+	source = perplexity-ai.desktop
+	sha256sums = 1307375c2beefd3a7130c22a4bd2869b18193e12b7345e73e2a25aaa8d010bec
+	sha256sums = ce93921c084a3b9baf569f2c35fb1d1dd7ff935614d8e5d4d79378a28a2109a7
+	sha256sums = 61ce4b424aad7c77f2d54bfb51128640bf54532759d6ff1c7efd5d88d02a94de
+	sha256sums = 24f9cbd73e712552ab1a082c98dfd55d0509ef9ac4ec4561746c75945883f188
+
+pkgname = perplexity-ai
